@@ -1,1 +1,2 @@
 # TerminalChat
+Client-server chat
