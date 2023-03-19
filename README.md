@@ -1,2 +1,2 @@
 # TerminalChat
-Client-server chat
+Client-server chat using my own socket class
